@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WeatherApp</title>
+</head>
+
+<body>
+  <form class='form' action='/' method='post'>
+    <select type='text' name='city' id="city">
+      <option value="Budapest">Budapest</option>
+      <option value="Győr">Győr</option>
+      <option value="Debrecen">Debrecen</option>
+      <option value="Miskolc">Miskolc</option>
+      <option value="Pécs">Pécs</option>
+      <option value="Sopron">Sopron</option>
+      <option value="Szeged">Szeged</option>
+      <option value="Gyékényes">Gyékényes</option>
+    </select>
+    <button id='submit-button' type='submit'>Search</button>
+  </form>
+  <div class='results'>
+    <h1>
+      <%= sendData.location %>
+    </h1>
+    <h3>Coordinates:</h3>lon: <%= sendData.coordinates.lon %><br>lat: <%= sendData.coordinates.lat %>
+        <h3>Temperature:</h3>
+        <%= sendData.temp %> Celsius
+          <h3>Air pressure:</h3>
+          <%= sendData.pressure %> mbar
+            <h3>Humidity:</h3>
+            <%= sendData.humidity %> %
+              <h3>Wind:</h3>
+              <%= sendData.wind %>km/h
+                <h3>Cloud:</h3>
+                <img src=<%=sendData.imgURL %>>
+                <h3>Time:</h3>
+                <%= sendData.timestamp %>
+  </div>
+</body>
+
+</html>
