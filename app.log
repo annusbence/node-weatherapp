@@ -1,0 +1,4 @@
+2022-11-22T15:06:25.852Z - [ERROR  ] - error
+2022-11-22T15:06:25.854Z - [WARN   ] - warn
+2022-11-22T15:06:25.854Z - [INFO   ] - info
+2022-11-22T15:06:25.863Z - [INFO   ] - Server is running on Port: 3000
