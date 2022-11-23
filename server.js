@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 const app = express();
 const logger = require('./src/logger');
 const dotenv = require("dotenv");
-const connection = require("./db.js");
+const connection = require("./DB/mariaDB");
 
 dotenv.config();
 
@@ -24,20 +24,17 @@ app.post('/', async (req, res) => {
   const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${process.env.API_KEY}`;
   const oldDate = new Date(Date.now() - 10 * 60 * 1000).toISOString().slice(0, 19).replace('T', ' ');
   const newDate = new Date().toISOString().slice(0, 19).replace('T', ' ');
-  const sqlSelect = `SELECT * FROM weatherapp WHERE city = '${city}' and date > '${oldDate}';`
-  connection.query(sqlSelect, async (err, rows) => {
-    if (err) {
-      res.sendStatus(500);
-      return;
-    };
+  try {
+    const sqlSelect = `SELECT * FROM weatherapp WHERE city = '${city}' and date > '${oldDate}';`
+    const rows = await connection.query(sqlSelect);
     if (rows.length === 0) {
       const response = await fetch(url);
       const weatherData = await response.json();
       const icon = weatherData.weather[0].icon;
-
+      const imgURL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
       const sendData = {
-        longitude: weatherData.coord.lon,
         city: weatherData.name,
+        longitude: weatherData.coord.lon,
         latitude: weatherData.coord.lat,
         temp: weatherData.main.temp,
         pressure: weatherData.main.pressure,
@@ -45,22 +42,23 @@ app.post('/', async (req, res) => {
         windpower: weatherData.wind.speed,
         winddirect: weatherData.wind.deg,
         date: newDate,
-        cloud: `http://openweathermap.org/img/wn/${icon}@2x.png`
-      };
-
-      const sqlUpdate = `UPDATE weatherapp SET ? WHERE city='${city}';`;
-      connection.query(sqlUpdate, sendData, (err, rows) => {
-        if (err) {
-          console.log(err)
-          res.sendStatus(500);
-          return;
-        }
-        res.render('index', { sendData: sendData });
-      })
+        cloud: imgURL
+      }
+      try {
+        const sqlUpdate = `UPDATE weatherapp SET date='${sendData.date}',longitude =${sendData.longitude},latitude =${sendData.latitude},temp=${sendData.temp}, pressure=${sendData.pressure}, humidity=${sendData.humidity}, windpower=${sendData.windpower},winddirect =${sendData.winddirect}, cloud='${imgURL}' WHERE city='${city}';`;
+        await connection.query(sqlUpdate);
+        res.status(200).render('index', { sendData: sendData });
+      } catch (error) {
+        res.status(500).send(error.message)
+        logger.error(error.message)
+      }
     } else {
-      res.render('index', { sendData: rows[0] });
+      res.status(200).render('index', { sendData: rows[0] });
     }
-  });
+  } catch (error) {
+    res.status(500).send(error.message)
+    logger.error(error.message)
+  }
 });
 
 logger.error('error');
