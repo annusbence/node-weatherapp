@@ -9,7 +9,6 @@ CREATE TABLE `weatherapp` (
 	`humidity` VARCHAR(256) NOT NULL,
 	`windpower` VARCHAR(256) NOT NULL,
 	`winddirect` VARCHAR(256) NOT NULL,
-	`rain` VARCHAR(256) NOT NULL,
 	`cloud` VARCHAR(256) NOT NULL,
 	PRIMARY KEY (`id`)
 );

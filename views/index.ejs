@@ -11,20 +11,20 @@
 <body>
   <form class='form' action='/' method='post'>
     <select type='text' name='city' id="city">
-      <option value="Budapest">Budapest</option>
-      <option value="Győr">Győr</option>
-      <option value="Debrecen">Debrecen</option>
-      <option value="Miskolc">Miskolc</option>
-      <option value="Pécs">Pécs</option>
-      <option value="Sopron">Sopron</option>
-      <option value="Szeged">Szeged</option>
-      <option value="Gyékényes">Gyékényes</option>
+      <option value="Budapest" <%=sendData.city==="Budapest" ?'selected':' ' %>>Budapest</option>
+      <option value="Győr" <%= sendData.city === "Győr" ?' selected':' ' %>>Győr</option>
+      <option value="Debrecen" <%= sendData.city === "Debrecen" ?' selected':' ' %>>Debrecen</option>
+      <option value="Miskolc" <%= sendData.city === "Miskolc" ?' selected':' ' %>>Miskolc</option>
+      <option value="Pécs" <%= sendData.city === "Pécs" ?' selected':' ' %>>Pécs</option>
+      <option value="Sopron" <%= sendData.city === "Sopron" ?' selected':' ' %>>Sopron</option>
+      <option value="Szeged" <%= sendData.city === "Szeged" ?' selected':' ' %>>Szeged</option>
+      <option value="Gyékényes" <%= sendData.city === "Gyékényes" ?' selected':' ' %>>Gyékényes</option>
     </select>
-    <button id='submit-button' type='submit'>Search</button>
+    <button id=' submit-button' type='submit'>Search</button>
   </form>
   <div class='results'>
     <h1>
-      <%= sendData.location %>
+      <%= sendData.city %>
     </h1>
     <h3>Coordinates:</h3>lon: <%= sendData.longitude%><br>lat: <%= sendData.latitude%>
         <h3>Temperature:</h3>
@@ -36,7 +36,7 @@
               <h3>Wind:</h3>
               <%= sendData.windpower %> km/h
                 <h3>Cloud:</h3>
-                <img src=<%=sendData.imgURL %>>
+                <img src=<%=sendData.cloud %>>
                 <h3>Time:</h3>
                 <%= sendData.date %>
   </div>
