@@ -26,7 +26,7 @@
     <h1>
       <%= sendData.location %>
     </h1>
-    <h3>Coordinates:</h3>lon: <%= sendData.coordinates.lon %><br>lat: <%= sendData.coordinates.lat %>
+    <h3>Coordinates:</h3>lon: <%= sendData.longitude%><br>lat: <%= sendData.latitude%>
         <h3>Temperature:</h3>
         <%= sendData.temp %> Celsius
           <h3>Air pressure:</h3>
@@ -34,11 +34,11 @@
             <h3>Humidity:</h3>
             <%= sendData.humidity %> %
               <h3>Wind:</h3>
-              <%= sendData.wind %>km/h
+              <%= sendData.windpower %> km/h
                 <h3>Cloud:</h3>
                 <img src=<%=sendData.imgURL %>>
                 <h3>Time:</h3>
-                <%= sendData.timestamp %>
+                <%= sendData.date %>
   </div>
 </body>
 

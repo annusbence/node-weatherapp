@@ -1,0 +1,710 @@
+2022-11-22T20:36:00.032Z - [ERROR  ] - error
+2022-11-22T20:36:00.035Z - [WARN   ] - warn
+2022-11-22T20:36:00.036Z - [INFO   ] - info
+2022-11-22T20:36:00.041Z - [INFO   ] - Server is running on Port: 3000
+2022-11-22T20:36:00.062Z - [INFO   ] - Connection to MySQL is established!
+2022-11-22T20:38:11.758Z - [ERROR  ] - error
+2022-11-22T20:38:11.761Z - [WARN   ] - warn
+2022-11-22T20:38:11.761Z - [INFO   ] - info
+2022-11-22T20:38:11.775Z - [INFO   ] - Server is running on Port: 3000
+2022-11-22T20:38:11.819Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:40:49.667Z - [ERROR  ] - error
+2022-11-23T07:40:49.679Z - [WARN   ] - warn
+2022-11-23T07:40:49.680Z - [INFO   ] - info
+2022-11-23T07:40:49.688Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:40:49.704Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:41:48.934Z - [ERROR  ] - error
+2022-11-23T07:41:48.936Z - [WARN   ] - warn
+2022-11-23T07:41:48.937Z - [INFO   ] - info
+2022-11-23T07:41:48.944Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:41:48.964Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:43:24.471Z - [ERROR  ] - error
+2022-11-23T07:43:24.473Z - [WARN   ] - warn
+2022-11-23T07:43:24.474Z - [INFO   ] - info
+2022-11-23T07:43:24.479Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:43:24.506Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:45:21.092Z - [ERROR  ] - error
+2022-11-23T07:45:21.094Z - [WARN   ] - warn
+2022-11-23T07:45:21.094Z - [INFO   ] - info
+2022-11-23T07:45:21.104Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:45:21.131Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:46:06.845Z - [ERROR  ] - error
+2022-11-23T07:46:06.847Z - [WARN   ] - warn
+2022-11-23T07:46:06.847Z - [INFO   ] - info
+2022-11-23T07:46:06.857Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:46:06.883Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:47:14.092Z - [ERROR  ] - error
+2022-11-23T07:47:14.096Z - [WARN   ] - warn
+2022-11-23T07:47:14.096Z - [INFO   ] - info
+2022-11-23T07:47:14.103Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:47:14.119Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:47:38.513Z - [ERROR  ] - error
+2022-11-23T07:47:38.515Z - [WARN   ] - warn
+2022-11-23T07:47:38.517Z - [INFO   ] - info
+2022-11-23T07:47:38.523Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:47:38.543Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:48:26.152Z - [ERROR  ] - error
+2022-11-23T07:48:26.154Z - [WARN   ] - warn
+2022-11-23T07:48:26.154Z - [INFO   ] - info
+2022-11-23T07:48:26.159Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:48:26.176Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:49:23.736Z - [ERROR  ] - error
+2022-11-23T07:49:23.738Z - [WARN   ] - warn
+2022-11-23T07:49:23.738Z - [INFO   ] - info
+2022-11-23T07:49:23.745Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:49:23.767Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:50:33.035Z - [ERROR  ] - error
+2022-11-23T07:50:33.037Z - [WARN   ] - warn
+2022-11-23T07:50:33.037Z - [INFO   ] - info
+2022-11-23T07:50:33.042Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:50:33.065Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:52:35.219Z - [ERROR  ] - error
+2022-11-23T07:52:35.221Z - [WARN   ] - warn
+2022-11-23T07:52:35.221Z - [INFO   ] - info
+2022-11-23T07:52:35.226Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:52:35.242Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:53:02.488Z - [ERROR  ] - error
+2022-11-23T07:53:02.491Z - [WARN   ] - warn
+2022-11-23T07:53:02.491Z - [INFO   ] - info
+2022-11-23T07:53:02.497Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:53:02.517Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:56:15.051Z - [ERROR  ] - error
+2022-11-23T07:56:15.054Z - [WARN   ] - warn
+2022-11-23T07:56:15.054Z - [INFO   ] - info
+2022-11-23T07:56:15.059Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:56:15.075Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:57:30.937Z - [ERROR  ] - error
+2022-11-23T07:57:30.939Z - [WARN   ] - warn
+2022-11-23T07:57:30.939Z - [INFO   ] - info
+2022-11-23T07:57:30.946Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:57:30.970Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:58:08.896Z - [ERROR  ] - error
+2022-11-23T07:58:08.899Z - [WARN   ] - warn
+2022-11-23T07:58:08.899Z - [INFO   ] - info
+2022-11-23T07:58:08.908Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:58:08.927Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T07:59:35.480Z - [ERROR  ] - error
+2022-11-23T07:59:35.484Z - [WARN   ] - warn
+2022-11-23T07:59:35.484Z - [INFO   ] - info
+2022-11-23T07:59:35.491Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T07:59:35.500Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:00:03.319Z - [ERROR  ] - error
+2022-11-23T08:00:03.321Z - [WARN   ] - warn
+2022-11-23T08:00:03.322Z - [INFO   ] - info
+2022-11-23T08:00:03.327Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:00:03.344Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:06:50.556Z - [ERROR  ] - error
+2022-11-23T08:06:50.559Z - [WARN   ] - warn
+2022-11-23T08:06:50.559Z - [INFO   ] - info
+2022-11-23T08:06:50.564Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:06:50.572Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:12:04.279Z - [ERROR  ] - error
+2022-11-23T08:12:04.281Z - [WARN   ] - warn
+2022-11-23T08:12:04.282Z - [INFO   ] - info
+2022-11-23T08:12:04.287Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:12:04.294Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:12:14.752Z - [ERROR  ] - error
+2022-11-23T08:12:14.754Z - [WARN   ] - warn
+2022-11-23T08:12:14.754Z - [INFO   ] - info
+2022-11-23T08:12:14.760Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:12:14.768Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:13:18.529Z - [ERROR  ] - error
+2022-11-23T08:13:18.531Z - [WARN   ] - warn
+2022-11-23T08:13:18.531Z - [INFO   ] - info
+2022-11-23T08:13:18.538Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:13:18.556Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:17:15.836Z - [ERROR  ] - error
+2022-11-23T08:17:15.839Z - [WARN   ] - warn
+2022-11-23T08:17:15.839Z - [INFO   ] - info
+2022-11-23T08:17:15.844Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:17:15.851Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:17:54.313Z - [ERROR  ] - error
+2022-11-23T08:17:54.315Z - [WARN   ] - warn
+2022-11-23T08:17:54.316Z - [INFO   ] - info
+2022-11-23T08:17:54.320Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:17:54.339Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:18:25.258Z - [ERROR  ] - error
+2022-11-23T08:18:25.261Z - [WARN   ] - warn
+2022-11-23T08:18:25.261Z - [INFO   ] - info
+2022-11-23T08:18:25.267Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:18:25.284Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:29:50.199Z - [ERROR  ] - error
+2022-11-23T08:29:50.201Z - [WARN   ] - warn
+2022-11-23T08:29:50.201Z - [INFO   ] - info
+2022-11-23T08:29:50.206Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:29:50.218Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:45:28.784Z - [ERROR  ] - error
+2022-11-23T08:45:28.786Z - [WARN   ] - warn
+2022-11-23T08:45:28.786Z - [INFO   ] - info
+2022-11-23T08:45:28.795Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:45:28.808Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:45:42.243Z - [ERROR  ] - error
+2022-11-23T08:45:42.245Z - [WARN   ] - warn
+2022-11-23T08:45:42.246Z - [INFO   ] - info
+2022-11-23T08:45:42.250Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:45:42.267Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:46:31.970Z - [ERROR  ] - error
+2022-11-23T08:46:31.971Z - [WARN   ] - warn
+2022-11-23T08:46:31.972Z - [INFO   ] - info
+2022-11-23T08:46:31.977Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:46:31.984Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:48:12.220Z - [ERROR  ] - error
+2022-11-23T08:48:12.221Z - [WARN   ] - warn
+2022-11-23T08:48:12.221Z - [INFO   ] - info
+2022-11-23T08:48:12.226Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:48:12.243Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:48:30.382Z - [ERROR  ] - error
+2022-11-23T08:48:30.385Z - [WARN   ] - warn
+2022-11-23T08:48:30.386Z - [INFO   ] - info
+2022-11-23T08:48:30.391Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:48:30.410Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:49:32.138Z - [ERROR  ] - error
+2022-11-23T08:49:32.139Z - [WARN   ] - warn
+2022-11-23T08:49:32.140Z - [INFO   ] - info
+2022-11-23T08:49:32.146Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:49:32.162Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:50:20.400Z - [ERROR  ] - error
+2022-11-23T08:50:20.402Z - [WARN   ] - warn
+2022-11-23T08:50:20.402Z - [INFO   ] - info
+2022-11-23T08:50:20.409Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:50:20.431Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:50:55.256Z - [ERROR  ] - error
+2022-11-23T08:50:55.259Z - [WARN   ] - warn
+2022-11-23T08:50:55.259Z - [INFO   ] - info
+2022-11-23T08:50:55.265Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:50:55.281Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T08:51:09.186Z - [ERROR  ] - error
+2022-11-23T08:51:09.189Z - [WARN   ] - warn
+2022-11-23T08:51:09.189Z - [INFO   ] - info
+2022-11-23T08:51:09.194Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T08:51:09.209Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:01:36.552Z - [ERROR  ] - error
+2022-11-23T09:01:36.554Z - [WARN   ] - warn
+2022-11-23T09:01:36.554Z - [INFO   ] - info
+2022-11-23T09:01:36.561Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:01:36.590Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:05:54.707Z - [ERROR  ] - error
+2022-11-23T09:05:54.709Z - [WARN   ] - warn
+2022-11-23T09:05:54.710Z - [INFO   ] - info
+2022-11-23T09:05:54.714Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:05:54.742Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:06:33.704Z - [ERROR  ] - error
+2022-11-23T09:06:33.707Z - [WARN   ] - warn
+2022-11-23T09:06:33.707Z - [INFO   ] - info
+2022-11-23T09:06:33.713Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:06:33.735Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:07:47.122Z - [ERROR  ] - error
+2022-11-23T09:07:47.124Z - [WARN   ] - warn
+2022-11-23T09:07:47.125Z - [INFO   ] - info
+2022-11-23T09:07:47.130Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:07:47.146Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:09:15.210Z - [ERROR  ] - error
+2022-11-23T09:09:15.212Z - [WARN   ] - warn
+2022-11-23T09:09:15.213Z - [INFO   ] - info
+2022-11-23T09:09:15.218Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:09:15.246Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:40:29.312Z - [ERROR  ] - error
+2022-11-23T09:40:29.314Z - [WARN   ] - warn
+2022-11-23T09:40:29.314Z - [INFO   ] - info
+2022-11-23T09:40:29.319Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:40:29.334Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:41:27.075Z - [ERROR  ] - error
+2022-11-23T09:41:27.078Z - [WARN   ] - warn
+2022-11-23T09:41:27.078Z - [INFO   ] - info
+2022-11-23T09:41:27.083Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:41:27.089Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:42:07.526Z - [ERROR  ] - error
+2022-11-23T09:42:07.527Z - [WARN   ] - warn
+2022-11-23T09:42:07.528Z - [INFO   ] - info
+2022-11-23T09:42:07.533Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:42:07.550Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:42:24.787Z - [ERROR  ] - error
+2022-11-23T09:42:24.789Z - [WARN   ] - warn
+2022-11-23T09:42:24.789Z - [INFO   ] - info
+2022-11-23T09:42:24.794Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:42:24.807Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T09:42:47.448Z - [ERROR  ] - error
+2022-11-23T09:42:47.453Z - [WARN   ] - warn
+2022-11-23T09:42:47.453Z - [INFO   ] - info
+2022-11-23T09:42:47.459Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T09:42:47.485Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:02:27.207Z - [ERROR  ] - error
+2022-11-23T10:02:27.209Z - [WARN   ] - warn
+2022-11-23T10:02:27.209Z - [INFO   ] - info
+2022-11-23T10:02:27.213Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:02:27.235Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:04:20.052Z - [ERROR  ] - error
+2022-11-23T10:04:20.054Z - [WARN   ] - warn
+2022-11-23T10:04:20.054Z - [INFO   ] - info
+2022-11-23T10:04:20.058Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:04:20.072Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:06:00.321Z - [ERROR  ] - error
+2022-11-23T10:06:00.323Z - [WARN   ] - warn
+2022-11-23T10:06:00.323Z - [INFO   ] - info
+2022-11-23T10:06:00.327Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:06:00.348Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:06:33.536Z - [ERROR  ] - error
+2022-11-23T10:06:33.538Z - [WARN   ] - warn
+2022-11-23T10:06:33.538Z - [INFO   ] - info
+2022-11-23T10:06:33.543Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:06:33.559Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:11:42.873Z - [ERROR  ] - error
+2022-11-23T10:11:42.874Z - [WARN   ] - warn
+2022-11-23T10:11:42.875Z - [INFO   ] - info
+2022-11-23T10:11:42.879Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:11:42.893Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:12:47.645Z - [ERROR  ] - error
+2022-11-23T10:12:47.647Z - [WARN   ] - warn
+2022-11-23T10:12:47.647Z - [INFO   ] - info
+2022-11-23T10:12:47.651Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:12:47.664Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:13:36.753Z - [ERROR  ] - error
+2022-11-23T10:13:36.754Z - [WARN   ] - warn
+2022-11-23T10:13:36.755Z - [INFO   ] - info
+2022-11-23T10:13:36.759Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:13:36.765Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:14:31.753Z - [ERROR  ] - error
+2022-11-23T10:14:31.755Z - [WARN   ] - warn
+2022-11-23T10:14:31.755Z - [INFO   ] - info
+2022-11-23T10:14:31.760Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:14:31.782Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:16:42.916Z - [ERROR  ] - error
+2022-11-23T10:16:42.918Z - [WARN   ] - warn
+2022-11-23T10:16:42.918Z - [INFO   ] - info
+2022-11-23T10:16:42.924Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:16:42.930Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:18:28.763Z - [ERROR  ] - error
+2022-11-23T10:18:28.765Z - [WARN   ] - warn
+2022-11-23T10:18:28.766Z - [INFO   ] - info
+2022-11-23T10:18:28.770Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:18:28.783Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:20:02.768Z - [ERROR  ] - error
+2022-11-23T10:20:02.769Z - [WARN   ] - warn
+2022-11-23T10:20:02.770Z - [INFO   ] - info
+2022-11-23T10:20:02.776Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:20:02.782Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:20:35.607Z - [ERROR  ] - error
+2022-11-23T10:20:35.609Z - [WARN   ] - warn
+2022-11-23T10:20:35.610Z - [INFO   ] - info
+2022-11-23T10:20:35.615Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:20:35.629Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:22:27.891Z - [ERROR  ] - error
+2022-11-23T10:22:27.893Z - [WARN   ] - warn
+2022-11-23T10:22:27.894Z - [INFO   ] - info
+2022-11-23T10:22:27.898Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:22:27.917Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:23:31.892Z - [ERROR  ] - error
+2022-11-23T10:23:31.894Z - [WARN   ] - warn
+2022-11-23T10:23:31.894Z - [INFO   ] - info
+2022-11-23T10:23:31.898Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:23:31.911Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:24:54.726Z - [ERROR  ] - error
+2022-11-23T10:24:54.728Z - [WARN   ] - warn
+2022-11-23T10:24:54.729Z - [INFO   ] - info
+2022-11-23T10:24:54.733Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:24:54.750Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:30:43.883Z - [ERROR  ] - error
+2022-11-23T10:30:43.886Z - [WARN   ] - warn
+2022-11-23T10:30:43.886Z - [INFO   ] - info
+2022-11-23T10:30:43.892Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:30:43.907Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:31:43.025Z - [ERROR  ] - error
+2022-11-23T10:31:43.026Z - [WARN   ] - warn
+2022-11-23T10:31:43.027Z - [INFO   ] - info
+2022-11-23T10:31:43.031Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:31:43.056Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:32:18.854Z - [ERROR  ] - error
+2022-11-23T10:32:18.856Z - [WARN   ] - warn
+2022-11-23T10:32:18.856Z - [INFO   ] - info
+2022-11-23T10:32:18.860Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:32:18.890Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:34:05.706Z - [ERROR  ] - error
+2022-11-23T10:34:05.708Z - [WARN   ] - warn
+2022-11-23T10:34:05.709Z - [INFO   ] - info
+2022-11-23T10:34:05.713Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:34:05.728Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:35:00.853Z - [ERROR  ] - error
+2022-11-23T10:35:00.854Z - [WARN   ] - warn
+2022-11-23T10:35:00.855Z - [INFO   ] - info
+2022-11-23T10:35:00.859Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:35:00.873Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:35:38.191Z - [ERROR  ] - error
+2022-11-23T10:35:38.194Z - [WARN   ] - warn
+2022-11-23T10:35:38.194Z - [INFO   ] - info
+2022-11-23T10:35:38.203Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:35:38.228Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:36:32.809Z - [ERROR  ] - error
+2022-11-23T10:36:32.811Z - [WARN   ] - warn
+2022-11-23T10:36:32.811Z - [INFO   ] - info
+2022-11-23T10:36:32.817Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:36:32.836Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:43:39.804Z - [ERROR  ] - error
+2022-11-23T10:43:39.806Z - [WARN   ] - warn
+2022-11-23T10:43:39.806Z - [INFO   ] - info
+2022-11-23T10:43:39.810Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:43:39.837Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:55:09.464Z - [ERROR  ] - error
+2022-11-23T10:55:09.466Z - [WARN   ] - warn
+2022-11-23T10:55:09.466Z - [INFO   ] - info
+2022-11-23T10:55:09.470Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:55:09.484Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:55:50.538Z - [ERROR  ] - error
+2022-11-23T10:55:50.541Z - [WARN   ] - warn
+2022-11-23T10:55:50.541Z - [INFO   ] - info
+2022-11-23T10:55:50.547Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:55:50.576Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:56:57.065Z - [ERROR  ] - error
+2022-11-23T10:56:57.067Z - [WARN   ] - warn
+2022-11-23T10:56:57.068Z - [INFO   ] - info
+2022-11-23T10:56:57.072Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:56:57.087Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:57:44.556Z - [ERROR  ] - error
+2022-11-23T10:57:44.558Z - [WARN   ] - warn
+2022-11-23T10:57:44.559Z - [INFO   ] - info
+2022-11-23T10:57:44.564Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:57:44.571Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T10:58:04.768Z - [ERROR  ] - error
+2022-11-23T10:58:04.772Z - [WARN   ] - warn
+2022-11-23T10:58:04.773Z - [INFO   ] - info
+2022-11-23T10:58:04.795Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T10:58:04.836Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:00:17.778Z - [ERROR  ] - error
+2022-11-23T11:00:17.781Z - [WARN   ] - warn
+2022-11-23T11:00:17.781Z - [INFO   ] - info
+2022-11-23T11:00:17.786Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:00:17.800Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:00:47.805Z - [ERROR  ] - error
+2022-11-23T11:00:47.807Z - [WARN   ] - warn
+2022-11-23T11:00:47.808Z - [INFO   ] - info
+2022-11-23T11:00:47.813Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:00:47.819Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:01:30.638Z - [ERROR  ] - error
+2022-11-23T11:01:30.642Z - [WARN   ] - warn
+2022-11-23T11:01:30.642Z - [INFO   ] - info
+2022-11-23T11:01:30.648Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:01:30.669Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:01:49.279Z - [ERROR  ] - error
+2022-11-23T11:01:49.280Z - [WARN   ] - warn
+2022-11-23T11:01:49.281Z - [INFO   ] - info
+2022-11-23T11:01:49.285Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:01:49.312Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:02:29.638Z - [ERROR  ] - error
+2022-11-23T11:02:29.641Z - [WARN   ] - warn
+2022-11-23T11:02:29.641Z - [INFO   ] - info
+2022-11-23T11:02:29.649Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:02:29.673Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:02:52.994Z - [ERROR  ] - error
+2022-11-23T11:02:52.996Z - [WARN   ] - warn
+2022-11-23T11:02:52.996Z - [INFO   ] - info
+2022-11-23T11:02:53.001Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:02:53.016Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:03:10.991Z - [ERROR  ] - error
+2022-11-23T11:03:10.993Z - [WARN   ] - warn
+2022-11-23T11:03:10.994Z - [INFO   ] - info
+2022-11-23T11:03:10.998Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:03:11.013Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:03:23.666Z - [ERROR  ] - error
+2022-11-23T11:03:23.668Z - [WARN   ] - warn
+2022-11-23T11:03:23.668Z - [INFO   ] - info
+2022-11-23T11:03:23.673Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:03:23.681Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:03:51.727Z - [ERROR  ] - error
+2022-11-23T11:03:51.729Z - [WARN   ] - warn
+2022-11-23T11:03:51.730Z - [INFO   ] - info
+2022-11-23T11:03:51.735Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:03:51.750Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:04:13.686Z - [ERROR  ] - error
+2022-11-23T11:04:13.687Z - [WARN   ] - warn
+2022-11-23T11:04:13.688Z - [INFO   ] - info
+2022-11-23T11:04:13.694Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:04:13.723Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:06:14.520Z - [ERROR  ] - error
+2022-11-23T11:06:14.522Z - [WARN   ] - warn
+2022-11-23T11:06:14.522Z - [INFO   ] - info
+2022-11-23T11:06:14.527Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:06:14.553Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:18:10.236Z - [ERROR  ] - error
+2022-11-23T11:18:10.237Z - [WARN   ] - warn
+2022-11-23T11:18:10.238Z - [INFO   ] - info
+2022-11-23T11:18:10.242Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:18:10.263Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:19:07.390Z - [ERROR  ] - error
+2022-11-23T11:19:07.396Z - [WARN   ] - warn
+2022-11-23T11:19:07.397Z - [INFO   ] - info
+2022-11-23T11:19:07.408Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:19:07.425Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:19:35.762Z - [ERROR  ] - error
+2022-11-23T11:19:35.764Z - [WARN   ] - warn
+2022-11-23T11:19:35.764Z - [INFO   ] - info
+2022-11-23T11:19:35.768Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:19:35.782Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:19:48.627Z - [ERROR  ] - error
+2022-11-23T11:19:48.629Z - [WARN   ] - warn
+2022-11-23T11:19:48.629Z - [INFO   ] - info
+2022-11-23T11:19:48.636Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:19:48.659Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:22:57.888Z - [ERROR  ] - error
+2022-11-23T11:22:57.890Z - [WARN   ] - warn
+2022-11-23T11:22:57.890Z - [INFO   ] - info
+2022-11-23T11:22:57.895Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:22:57.913Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:23:31.765Z - [ERROR  ] - error
+2022-11-23T11:23:31.767Z - [WARN   ] - warn
+2022-11-23T11:23:31.768Z - [INFO   ] - info
+2022-11-23T11:23:31.772Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:23:31.793Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:23:50.018Z - [ERROR  ] - error
+2022-11-23T11:23:50.020Z - [WARN   ] - warn
+2022-11-23T11:23:50.021Z - [INFO   ] - info
+2022-11-23T11:23:50.029Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:23:50.036Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:25:45.946Z - [ERROR  ] - error
+2022-11-23T11:25:45.948Z - [WARN   ] - warn
+2022-11-23T11:25:45.949Z - [INFO   ] - info
+2022-11-23T11:25:45.965Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:25:46.040Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:26:26.090Z - [ERROR  ] - error
+2022-11-23T11:26:26.093Z - [WARN   ] - warn
+2022-11-23T11:26:26.098Z - [INFO   ] - info
+2022-11-23T11:26:26.126Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:26:26.179Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:26:48.849Z - [ERROR  ] - error
+2022-11-23T11:26:48.851Z - [WARN   ] - warn
+2022-11-23T11:26:48.852Z - [INFO   ] - info
+2022-11-23T11:26:48.856Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:26:48.883Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:31:30.403Z - [ERROR  ] - error
+2022-11-23T11:31:30.405Z - [WARN   ] - warn
+2022-11-23T11:31:30.406Z - [INFO   ] - info
+2022-11-23T11:31:30.410Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:31:30.425Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:56:25.490Z - [ERROR  ] - error
+2022-11-23T11:56:25.493Z - [WARN   ] - warn
+2022-11-23T11:56:25.493Z - [INFO   ] - info
+2022-11-23T11:56:25.498Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:56:25.526Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T11:57:42.030Z - [ERROR  ] - error
+2022-11-23T11:57:42.031Z - [WARN   ] - warn
+2022-11-23T11:57:42.032Z - [INFO   ] - info
+2022-11-23T11:57:42.039Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T11:57:42.071Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:04:20.221Z - [ERROR  ] - error
+2022-11-23T12:04:20.223Z - [WARN   ] - warn
+2022-11-23T12:04:20.223Z - [INFO   ] - info
+2022-11-23T12:04:20.227Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:04:20.241Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:04:47.102Z - [ERROR  ] - error
+2022-11-23T12:04:47.104Z - [WARN   ] - warn
+2022-11-23T12:04:47.104Z - [INFO   ] - info
+2022-11-23T12:04:47.108Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:04:47.131Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:06:08.330Z - [ERROR  ] - error
+2022-11-23T12:06:08.331Z - [WARN   ] - warn
+2022-11-23T12:06:08.332Z - [INFO   ] - info
+2022-11-23T12:06:08.336Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:06:08.342Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:07:52.319Z - [ERROR  ] - error
+2022-11-23T12:07:52.321Z - [WARN   ] - warn
+2022-11-23T12:07:52.322Z - [INFO   ] - info
+2022-11-23T12:07:52.326Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:07:52.342Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:14:04.396Z - [ERROR  ] - error
+2022-11-23T12:14:04.399Z - [WARN   ] - warn
+2022-11-23T12:14:04.399Z - [INFO   ] - info
+2022-11-23T12:14:04.404Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:14:04.477Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:19:59.871Z - [ERROR  ] - error
+2022-11-23T12:19:59.873Z - [WARN   ] - warn
+2022-11-23T12:19:59.874Z - [INFO   ] - info
+2022-11-23T12:19:59.879Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:19:59.884Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:20:35.907Z - [ERROR  ] - error
+2022-11-23T12:20:35.908Z - [WARN   ] - warn
+2022-11-23T12:20:35.909Z - [INFO   ] - info
+2022-11-23T12:20:35.913Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:20:35.929Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:21:01.148Z - [ERROR  ] - error
+2022-11-23T12:21:01.149Z - [WARN   ] - warn
+2022-11-23T12:21:01.150Z - [INFO   ] - info
+2022-11-23T12:21:01.154Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:21:01.169Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:21:19.722Z - [ERROR  ] - error
+2022-11-23T12:21:19.723Z - [WARN   ] - warn
+2022-11-23T12:21:19.724Z - [INFO   ] - info
+2022-11-23T12:21:19.731Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:21:19.750Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:21:29.301Z - [ERROR  ] - error
+2022-11-23T12:21:29.304Z - [WARN   ] - warn
+2022-11-23T12:21:29.304Z - [INFO   ] - info
+2022-11-23T12:21:29.308Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:21:29.327Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:22:16.558Z - [ERROR  ] - error
+2022-11-23T12:22:16.560Z - [WARN   ] - warn
+2022-11-23T12:22:16.560Z - [INFO   ] - info
+2022-11-23T12:22:16.564Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:22:16.579Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:26:38.251Z - [ERROR  ] - error
+2022-11-23T12:26:38.253Z - [WARN   ] - warn
+2022-11-23T12:26:38.254Z - [INFO   ] - info
+2022-11-23T12:26:38.258Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:26:38.282Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:27:20.651Z - [ERROR  ] - error
+2022-11-23T12:27:20.652Z - [WARN   ] - warn
+2022-11-23T12:27:20.653Z - [INFO   ] - info
+2022-11-23T12:27:20.657Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:27:20.671Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:28:00.265Z - [ERROR  ] - error
+2022-11-23T12:28:00.267Z - [WARN   ] - warn
+2022-11-23T12:28:00.267Z - [INFO   ] - info
+2022-11-23T12:28:00.273Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:28:00.294Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:31:39.565Z - [ERROR  ] - error
+2022-11-23T12:31:39.567Z - [WARN   ] - warn
+2022-11-23T12:31:39.568Z - [INFO   ] - info
+2022-11-23T12:31:39.572Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:31:39.578Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:32:40.637Z - [ERROR  ] - error
+2022-11-23T12:32:40.639Z - [WARN   ] - warn
+2022-11-23T12:32:40.639Z - [INFO   ] - info
+2022-11-23T12:32:40.645Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:32:40.662Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:33:04.867Z - [ERROR  ] - error
+2022-11-23T12:33:04.868Z - [WARN   ] - warn
+2022-11-23T12:33:04.869Z - [INFO   ] - info
+2022-11-23T12:33:04.874Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:33:04.897Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:37:21.853Z - [ERROR  ] - error
+2022-11-23T12:37:21.854Z - [WARN   ] - warn
+2022-11-23T12:37:21.855Z - [INFO   ] - info
+2022-11-23T12:37:21.860Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:37:21.876Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:37:50.634Z - [ERROR  ] - error
+2022-11-23T12:37:50.636Z - [WARN   ] - warn
+2022-11-23T12:37:50.637Z - [INFO   ] - info
+2022-11-23T12:37:50.641Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:37:50.667Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:38:33.186Z - [ERROR  ] - error
+2022-11-23T12:38:33.187Z - [WARN   ] - warn
+2022-11-23T12:38:33.188Z - [INFO   ] - info
+2022-11-23T12:38:33.192Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:38:33.212Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:39:43.001Z - [ERROR  ] - error
+2022-11-23T12:39:43.003Z - [WARN   ] - warn
+2022-11-23T12:39:43.003Z - [INFO   ] - info
+2022-11-23T12:39:43.009Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:39:43.024Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:40:53.144Z - [ERROR  ] - error
+2022-11-23T12:40:53.146Z - [WARN   ] - warn
+2022-11-23T12:40:53.147Z - [INFO   ] - info
+2022-11-23T12:40:53.151Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:40:53.158Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:41:23.983Z - [ERROR  ] - error
+2022-11-23T12:41:23.985Z - [WARN   ] - warn
+2022-11-23T12:41:23.985Z - [INFO   ] - info
+2022-11-23T12:41:23.989Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:41:24.004Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:44:42.478Z - [ERROR  ] - error
+2022-11-23T12:44:42.480Z - [WARN   ] - warn
+2022-11-23T12:44:42.480Z - [INFO   ] - info
+2022-11-23T12:44:42.485Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:44:42.504Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:46:06.028Z - [ERROR  ] - error
+2022-11-23T12:46:06.029Z - [WARN   ] - warn
+2022-11-23T12:46:06.030Z - [INFO   ] - info
+2022-11-23T12:46:06.034Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:46:06.049Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:47:07.289Z - [ERROR  ] - error
+2022-11-23T12:47:07.291Z - [WARN   ] - warn
+2022-11-23T12:47:07.291Z - [INFO   ] - info
+2022-11-23T12:47:07.296Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:47:07.312Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:47:55.082Z - [ERROR  ] - error
+2022-11-23T12:47:55.084Z - [WARN   ] - warn
+2022-11-23T12:47:55.084Z - [INFO   ] - info
+2022-11-23T12:47:55.089Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:47:55.108Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:48:06.668Z - [ERROR  ] - error
+2022-11-23T12:48:06.670Z - [WARN   ] - warn
+2022-11-23T12:48:06.670Z - [INFO   ] - info
+2022-11-23T12:48:06.675Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:48:06.690Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:48:21.737Z - [ERROR  ] - error
+2022-11-23T12:48:21.739Z - [WARN   ] - warn
+2022-11-23T12:48:21.740Z - [INFO   ] - info
+2022-11-23T12:48:21.747Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:48:21.763Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:50:14.525Z - [ERROR  ] - error
+2022-11-23T12:50:14.527Z - [WARN   ] - warn
+2022-11-23T12:50:14.527Z - [INFO   ] - info
+2022-11-23T12:50:14.531Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:50:14.538Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:53:38.662Z - [ERROR  ] - error
+2022-11-23T12:53:38.664Z - [WARN   ] - warn
+2022-11-23T12:53:38.664Z - [INFO   ] - info
+2022-11-23T12:53:38.668Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:53:38.678Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:54:41.518Z - [ERROR  ] - error
+2022-11-23T12:54:41.520Z - [WARN   ] - warn
+2022-11-23T12:54:41.520Z - [INFO   ] - info
+2022-11-23T12:54:41.524Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:54:41.531Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:55:15.827Z - [ERROR  ] - error
+2022-11-23T12:55:15.829Z - [WARN   ] - warn
+2022-11-23T12:55:15.829Z - [INFO   ] - info
+2022-11-23T12:55:15.834Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:55:15.852Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:55:36.512Z - [ERROR  ] - error
+2022-11-23T12:55:36.516Z - [WARN   ] - warn
+2022-11-23T12:55:36.516Z - [INFO   ] - info
+2022-11-23T12:55:36.525Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:55:36.535Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:55:52.431Z - [ERROR  ] - error
+2022-11-23T12:55:52.433Z - [WARN   ] - warn
+2022-11-23T12:55:52.433Z - [INFO   ] - info
+2022-11-23T12:55:52.438Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:55:52.451Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:57:05.680Z - [ERROR  ] - error
+2022-11-23T12:57:05.683Z - [WARN   ] - warn
+2022-11-23T12:57:05.683Z - [INFO   ] - info
+2022-11-23T12:57:05.692Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:57:05.726Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T12:57:36.649Z - [ERROR  ] - error
+2022-11-23T12:57:36.650Z - [WARN   ] - warn
+2022-11-23T12:57:36.650Z - [INFO   ] - info
+2022-11-23T12:57:36.656Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T12:57:36.682Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:01:39.900Z - [ERROR  ] - error
+2022-11-23T13:01:39.901Z - [WARN   ] - warn
+2022-11-23T13:01:39.901Z - [INFO   ] - info
+2022-11-23T13:01:39.906Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:01:39.920Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:03:32.415Z - [ERROR  ] - error
+2022-11-23T13:03:32.417Z - [WARN   ] - warn
+2022-11-23T13:03:32.418Z - [INFO   ] - info
+2022-11-23T13:03:32.421Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:03:32.446Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:13:09.483Z - [ERROR  ] - error
+2022-11-23T13:13:09.489Z - [WARN   ] - warn
+2022-11-23T13:13:09.489Z - [INFO   ] - info
+2022-11-23T13:13:09.493Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:13:09.513Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:14:43.811Z - [ERROR  ] - error
+2022-11-23T13:14:43.813Z - [WARN   ] - warn
+2022-11-23T13:14:43.814Z - [INFO   ] - info
+2022-11-23T13:14:43.824Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:14:43.844Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:15:25.026Z - [ERROR  ] - error
+2022-11-23T13:15:25.032Z - [WARN   ] - warn
+2022-11-23T13:15:25.033Z - [INFO   ] - info
+2022-11-23T13:15:25.043Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:15:25.102Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:16:10.363Z - [ERROR  ] - error
+2022-11-23T13:16:10.365Z - [WARN   ] - warn
+2022-11-23T13:16:10.365Z - [INFO   ] - info
+2022-11-23T13:16:10.371Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:16:10.393Z - [INFO   ] - Connection to MySQL is established!
+2022-11-23T13:17:12.604Z - [ERROR  ] - error
+2022-11-23T13:17:12.606Z - [WARN   ] - warn
+2022-11-23T13:17:12.607Z - [INFO   ] - info
+2022-11-23T13:17:12.616Z - [INFO   ] - Server is running on Port: 3000
+2022-11-23T13:17:12.622Z - [INFO   ] - Connection to MySQL is established!

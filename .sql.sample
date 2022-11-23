@@ -1,0 +1,15 @@
+CREATE TABLE `weatherapp` (
+	`id` INT(100) NOT NULL AUTO_INCREMENT,
+	`date` VARCHAR(256) NOT NULL,
+	`city` VARCHAR(256) NOT NULL,
+	`latitude` VARCHAR(256) NOT NULL,
+	`longitude` VARCHAR(256) NOT NULL,
+	`temp` VARCHAR(256) NOT NULL,
+	`pressure` VARCHAR(256) NOT NULL,
+	`humidity` VARCHAR(256) NOT NULL,
+	`windpower` VARCHAR(256) NOT NULL,
+	`winddirect` VARCHAR(256) NOT NULL,
+	`rain` VARCHAR(256) NOT NULL,
+	`cloud` VARCHAR(256) NOT NULL,
+	PRIMARY KEY (`id`)
+);
