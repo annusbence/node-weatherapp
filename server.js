@@ -1,15 +1,16 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fetch = require('node-fetch');
-const app = express();
 const logger = require('./src/logger');
 const dotenv = require("dotenv");
 const connection = require("./db");
+const app = express();
 
 dotenv.config();
 
 const PORT = process.env.PORT || 8080;
 
+app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
 app.set('view engine', 'ejs');
@@ -32,32 +33,36 @@ app.post('/', async (req, res) => {
       const weatherData = await response.json();
       const icon = weatherData.weather[0].icon;
       const imgURL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+      const temp = Math.round(weatherData.main.temp);
+      const wind = Math.round(weatherData.wind.speed);
+      const compassSector = ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "WNW", "NW", "NNW", "N"];
+      const windDirection = compassSector[(weatherData.wind.deg / 22.5).toFixed(0)];
       const sendData = {
         city: weatherData.name,
         longitude: weatherData.coord.lon,
         latitude: weatherData.coord.lat,
-        temp: weatherData.main.temp,
         pressure: weatherData.main.pressure,
         humidity: weatherData.main.humidity,
-        windpower: weatherData.wind.speed,
-        winddirect: weatherData.wind.deg,
+        winddirect: windDirection,
+        windpower: wind,
+        temp: temp,
         date: newDate,
         cloud: imgURL
-      }
+      };
       try {
-        const sqlUpdate = `UPDATE weatherapp SET date='${sendData.date}',longitude =${sendData.longitude},latitude =${sendData.latitude},temp=${sendData.temp}, pressure=${sendData.pressure}, humidity=${sendData.humidity}, windpower=${sendData.windpower},winddirect =${sendData.winddirect}, cloud='${imgURL}' WHERE city='${city}';`;
+        const sqlUpdate = `UPDATE weatherapp SET date='${sendData.date}',longitude =${sendData.longitude},latitude =${sendData.latitude},temp=${sendData.temp}, pressure=${sendData.pressure}, humidity=${sendData.humidity}, windpower=${sendData.windpower},winddirect ='${windDirection}', cloud='${imgURL}' WHERE city='${city}';`;
         await connection.query(sqlUpdate);
         res.status(200).render('index', { sendData: sendData });
       } catch (error) {
-        res.status(500).send(error.message)
-        logger.error(error.message)
+        res.status(500).send(error.message);
+        logger.error(error.message);
       }
     } else {
       res.status(200).render('index', { sendData: rows[0] });
     }
   } catch (error) {
-    res.status(500).send(error.message)
-    logger.error(error.message)
+    res.status(500).send(error.message);
+    logger.error(error.message);
   }
 });
 
