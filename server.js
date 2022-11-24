@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 const app = express();
 const logger = require('./src/logger');
 const dotenv = require("dotenv");
-const connection = require("./DB/mariaDB");
+const connection = require("./db");
 
 dotenv.config();
 
