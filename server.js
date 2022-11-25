@@ -16,7 +16,19 @@ app.use(express.json());
 app.set('view engine', 'ejs');
 
 app.get('/', (req, res) => {
-  const sendData = { location: 'Location', coordinates: 'Coordinates', temp: 'Temperature', pressure: 'Air pressure', humidity: 'Humidity', wind: 'Wind', date: 'date', imgURL: 'imgURL' };
+  const sendData = {
+    city: 'city',
+    longitude: 'longitude',
+    latitude: 'latitude',
+    pressure: 'pressure',
+    humidity: 'humidity',
+    winddirect: 'winddirect',
+    windpower: 'windpower',
+    temp: 'temp',
+    date: 'date',
+    cloud: 'cloud',
+    backgroundIMG: 'backgroundIMG'
+  };
   res.render('index', { sendData: sendData });
 });
 
@@ -33,6 +45,7 @@ app.post('/', async (req, res) => {
       const weatherData = await response.json();
       const icon = weatherData.weather[0].icon;
       const imgURL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+      const backgroundIMG = `url(img/${icon}.jpg)`;
       const temp = Math.round(weatherData.main.temp);
       const wind = Math.round(weatherData.wind.speed);
       const compassSector = ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "WNW", "NW", "NNW", "N"];
@@ -47,10 +60,11 @@ app.post('/', async (req, res) => {
         windpower: wind,
         temp: temp,
         date: newDate,
-        cloud: imgURL
+        cloud: imgURL,
+        backgroundIMG: backgroundIMG
       };
       try {
-        const sqlUpdate = `UPDATE weatherapp SET date='${sendData.date}',longitude =${sendData.longitude},latitude =${sendData.latitude},temp=${sendData.temp}, pressure=${sendData.pressure}, humidity=${sendData.humidity}, windpower=${sendData.windpower},winddirect ='${windDirection}', cloud='${imgURL}' WHERE city='${city}';`;
+        const sqlUpdate = `UPDATE weatherapp SET date='${sendData.date}', longitude=${sendData.longitude}, latitude=${sendData.latitude}, temp=${sendData.temp}, pressure=${sendData.pressure}, humidity=${sendData.humidity}, windpower=${sendData.windpower}, winddirect='${windDirection}', cloud='${imgURL}', backgroundIMG='${backgroundIMG}' WHERE city='${city}';`;
         await connection.query(sqlUpdate);
         res.status(200).render('index', { sendData: sendData });
       } catch (error) {
