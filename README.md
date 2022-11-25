@@ -14,6 +14,11 @@
    ```bash
    npm install
    ```
+3. Run the project.
+   ```bash
+   npm start
+   ```
+  
 
 ## APIs used
 - [OpenWeatherMap](http://openweathermap.org)
