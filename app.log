@@ -2,3 +2,109 @@
 2022-11-25T08:42:13.773Z - [WARN   ] - warn
 2022-11-25T08:42:13.774Z - [INFO   ] - info
 2022-11-25T08:42:13.778Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T09:20:13.088Z - [ERROR  ] - error
+2022-11-25T09:20:13.090Z - [WARN   ] - warn
+2022-11-25T09:20:13.091Z - [INFO   ] - info
+2022-11-25T09:20:13.099Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:11:01.032Z - [ERROR  ] - error
+2022-11-25T16:11:01.035Z - [WARN   ] - warn
+2022-11-25T16:11:01.036Z - [INFO   ] - info
+2022-11-25T16:11:01.054Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:32:20.403Z - [ERROR  ] - error
+2022-11-25T16:32:20.405Z - [WARN   ] - warn
+2022-11-25T16:32:20.406Z - [INFO   ] - info
+2022-11-25T16:32:20.423Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:33:37.398Z - [ERROR  ] - error
+2022-11-25T16:33:37.401Z - [WARN   ] - warn
+2022-11-25T16:33:37.401Z - [INFO   ] - info
+2022-11-25T16:33:37.408Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:34:00.403Z - [ERROR  ] - error
+2022-11-25T16:34:00.406Z - [WARN   ] - warn
+2022-11-25T16:34:00.407Z - [INFO   ] - info
+2022-11-25T16:34:00.422Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:34:53.703Z - [ERROR  ] - error
+2022-11-25T16:34:53.705Z - [WARN   ] - warn
+2022-11-25T16:34:53.706Z - [INFO   ] - info
+2022-11-25T16:34:53.712Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:35:28.253Z - [ERROR  ] - error
+2022-11-25T16:35:28.256Z - [WARN   ] - warn
+2022-11-25T16:35:28.258Z - [INFO   ] - info
+2022-11-25T16:35:28.265Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:37:36.369Z - [ERROR  ] - error
+2022-11-25T16:37:36.371Z - [WARN   ] - warn
+2022-11-25T16:37:36.371Z - [INFO   ] - info
+2022-11-25T16:37:36.378Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:46:52.124Z - [ERROR  ] - error
+2022-11-25T16:46:52.126Z - [WARN   ] - warn
+2022-11-25T16:46:52.127Z - [INFO   ] - info
+2022-11-25T16:46:52.132Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T16:56:11.745Z - [ERROR  ] - error
+2022-11-25T16:56:11.747Z - [WARN   ] - warn
+2022-11-25T16:56:11.748Z - [INFO   ] - info
+2022-11-25T16:56:11.754Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T17:04:58.217Z - [ERROR  ] - error
+2022-11-25T17:04:58.219Z - [WARN   ] - warn
+2022-11-25T17:04:58.220Z - [INFO   ] - info
+2022-11-25T17:04:58.225Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T17:07:34.512Z - [ERROR  ] - error
+2022-11-25T17:07:34.516Z - [WARN   ] - warn
+2022-11-25T17:07:34.516Z - [INFO   ] - info
+2022-11-25T17:07:34.523Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T17:17:02.867Z - [ERROR  ] - error
+2022-11-25T17:17:02.872Z - [WARN   ] - warn
+2022-11-25T17:17:02.873Z - [INFO   ] - info
+2022-11-25T17:17:02.886Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T18:06:34.916Z - [ERROR  ] - error
+2022-11-25T18:06:34.919Z - [WARN   ] - warn
+2022-11-25T18:06:34.921Z - [INFO   ] - info
+2022-11-25T18:06:34.939Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T18:14:57.339Z - [ERROR  ] - error
+2022-11-25T18:14:57.342Z - [WARN   ] - warn
+2022-11-25T18:14:57.342Z - [INFO   ] - info
+2022-11-25T18:14:57.347Z - [INFO   ] - Server is running on Port: 3000
+2022-11-25T18:16:32.715Z - [ERROR  ] - error
+2022-11-25T18:16:32.716Z - [WARN   ] - warn
+2022-11-25T18:16:32.717Z - [INFO   ] - info
+2022-11-25T18:16:32.723Z - [INFO   ] - Server is running on Port: 3000
+2022-11-26T07:09:30.279Z - [ERROR  ] - error
+2022-11-26T07:09:30.282Z - [WARN   ] - warn
+2022-11-26T07:09:30.282Z - [INFO   ] - info
+2022-11-26T07:09:30.297Z - [INFO   ] - Server is running on Port: 3000
+2022-11-26T07:11:13.183Z - [ERROR  ] - error
+2022-11-26T07:11:13.187Z - [WARN   ] - warn
+2022-11-26T07:11:13.188Z - [INFO   ] - info
+2022-11-26T07:11:13.196Z - [INFO   ] - Server is running on Port: 3000
+2022-11-26T07:11:19.988Z - [ERROR  ] - request to http://api.openweathermap.org/data/2.5/weather?q=Budapest&units=metric&appid=46d4b7c5d34fa20f4e66d522546c5d5f failed, reason: getaddrinfo ENOTFOUND api.openweathermap.org
+2022-11-26T07:23:30.630Z - [ERROR  ] - error
+2022-11-26T07:23:30.633Z - [WARN   ] - warn
+2022-11-26T07:23:30.635Z - [INFO   ] - info
+2022-11-26T07:23:30.648Z - [INFO   ] - Server is running on Port: 3000
+2022-11-26T07:23:39.883Z - [ERROR  ] - request to http://api.openweathermap.org/data/2.5/weather?q=Budapest&units=metric&appid=46d4b7c5d34fa20f4e66d522546c5d5f failed, reason: getaddrinfo ENOTFOUND api.openweathermap.org
+2022-11-26T19:43:39.571Z - [ERROR  ] - error
+2022-11-26T19:43:39.573Z - [WARN   ] - warn
+2022-11-26T19:43:39.574Z - [INFO   ] - info
+2022-11-26T19:43:39.602Z - [INFO   ] - Server is running on Port: 3000
+2022-11-26T19:45:03.306Z - [ERROR  ] - error
+2022-11-26T19:45:03.308Z - [WARN   ] - warn
+2022-11-26T19:45:03.308Z - [INFO   ] - info
+2022-11-26T19:45:03.317Z - [INFO   ] - Server is running on Port: 3000
+2022-11-28T09:11:00.835Z - [ERROR  ] - error
+2022-11-28T09:11:00.838Z - [WARN   ] - warn
+2022-11-28T09:11:00.838Z - [INFO   ] - info
+2022-11-28T09:11:00.849Z - [INFO   ] - Server is running on Port: 3000
+2022-12-28T10:56:06.158Z - [ERROR  ] - error
+2022-12-28T10:56:06.160Z - [WARN   ] - warn
+2022-12-28T10:56:06.161Z - [INFO   ] - info
+2022-12-28T10:56:06.170Z - [INFO   ] - Server is running on Port: 3000
+2022-12-28T10:56:49.270Z - [ERROR  ] - error
+2022-12-28T10:56:49.272Z - [WARN   ] - warn
+2022-12-28T10:56:49.273Z - [INFO   ] - info
+2022-12-28T10:56:49.279Z - [INFO   ] - Server is running on Port: 3000
+2022-12-28T10:58:43.012Z - [ERROR  ] - error
+2022-12-28T10:58:43.015Z - [WARN   ] - warn
+2022-12-28T10:58:43.016Z - [INFO   ] - info
+2022-12-28T10:58:43.028Z - [INFO   ] - Server is running on Port: 3000
+2022-12-28T10:59:50.209Z - [ERROR  ] - error
+2022-12-28T10:59:50.212Z - [WARN   ] - warn
+2022-12-28T10:59:50.213Z - [INFO   ] - info
+2022-12-28T10:59:50.229Z - [INFO   ] - Server is running on Port: 3000
